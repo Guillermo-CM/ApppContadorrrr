@@ -12,7 +12,6 @@ class _CounterState extends State<Counter> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('hola mundo')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
